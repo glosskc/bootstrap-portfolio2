@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+    
+    
+body {
+
+ background-image: url("../images/gravel.png");
+ background-repeat: repeat;
+
+}
+
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:#4aaaa5;
+    font-size: 24px;
+
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #4aaaa5;
+    font-size: 24px;
+
+}
+
+    
+
+
+
+
+
+
+.container {
+    width: 960px;
+    height: auto;
+    padding: 25x;
+    margin: auto;
+    background-color: #ffffff;
+    border: 1px #dddddd;
+    border-style: solid;
+    color: #777777;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#777777;
+    color: white;
+    text-align: center;
+ }
+
+/*** Contact Form Page ***/
+
+
+
+
+
+/*** Portfolio ***/
+
+#portfolio {
+    text-align: left;
+    padding: 20px;
+}
+#ipad {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-left: 30%;
+
+}
+
+#iphone {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-right: 30%
+}
+
+#lgtv {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-left: 30%;
+
+}
+
+#wheel {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-right: 30%;
+}
+
+#wire {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-left: 30%;
+
+}
+
